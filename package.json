@@ -1,0 +1,23 @@
+{
+  "name": "iss_spotter",
+  "version": "1.0.0",
+  "description": "build a cool little app for space enthusiasts who are interested in spotting the International Space Station (ISS). The ISS completes multiple revolutions around Earth per day. In fact, it passes overhead every ~90 minutes, and in some cases can even be spotted with the naked eye, though not every time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIAQI13/iss_spotter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIAQI13/iss_spotter/issues"
+  },
+  "homepage": "https://github.com/JIAQI13/iss_spotter#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
